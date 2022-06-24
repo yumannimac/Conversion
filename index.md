@@ -65,8 +65,8 @@ pandoc使うと書類のフォーマット変換が結構できる。30種類く
 
 <video controls controles poster="">
 <source src="./Conversion_sfiles/SS_6.mov">
-</video>
 </source>
+</video>
 
 動画のようにデフォルトでは`xelatex`として出力される仕様なので
 - xelatexをコンパイラにする
