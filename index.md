@@ -15,15 +15,14 @@
 				}
 			};
 </script>
-@media only screen and (max-width: 750px) {
-    img { max-width: 100%; }
-}
 <style>
 img{
-max-height:300px
+max-height:300px;
+max-width:100%
 }
 video{
 max-height:300px
+max-width:100%
 }
 </style>
 
