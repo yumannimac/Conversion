@@ -20,10 +20,6 @@ img{
 max-height:300px;
 max-width:100%
 }
-video{
-max-height:300px;
-max-width:100%
-}
 </style>
 
 
