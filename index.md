@@ -21,8 +21,8 @@ max-height:300px;
 max-width:100%
 }
 video{
-max-height:vh;
-max-width:vw%
+max-height:100%;
+max-width:100%
 }
 </style>
 
